@@ -1,0 +1,8 @@
+**/README.md
+**/HINTS.md
+**/HELP.md
+**/*.bats
+**/.exercism
+**/*test.lisp
+**/bats-extra.bash
+jq/*/*.json
