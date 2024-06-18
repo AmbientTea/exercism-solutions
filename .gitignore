@@ -5,4 +5,7 @@
 **/.exercism
 **/*test.lisp
 **/bats-extra.bash
+**/.RData
+**/.Rhistory
 jq/*/*.json
+R/*/test_*
