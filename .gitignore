@@ -9,3 +9,16 @@
 **/.Rhistory
 jq/*/*.json
 R/*/test_*
+**/node_modules
+**/.vscode
+**/.yarn
+**/.yarnrs.yml
+**/.bsp
+**/.idea
+**/package.json
+**/yarn.lock
+**/*.cjs
+**/*.mjs
+**/.yarnrc.yml
+**/tsconfig.json
+**/*.test.ts
