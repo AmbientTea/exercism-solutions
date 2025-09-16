@@ -22,3 +22,4 @@ R/*/test_*
 **/.yarnrc.yml
 **/tsconfig.json
 **/*.test.ts
+**/target
